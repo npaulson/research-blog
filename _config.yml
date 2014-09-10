@@ -1,11 +1,11 @@
 # Site settings
 # Enter your own credentials here
-title: "My Blog"
-email: you@somewhere.com
+title: "Noah Paulson Research Blog"
+email: noahhpaulson@gmail.com
 description: >
-  Tell us about your site
-baseurl: "/research-pages" # replace ``/research-pages`` with the name of the parents repository
-url: "Materials-Informatics-Lab.github.io" # replate ``Materials-Informatics-Lab`` with your Github username
+  Noah Paulson's personal research blog
+baseurl: "/research-blog" # replace ``/research-pages`` with the name of the parents repository
+url: "npaulson.github.io" # replate ``Materials-Informatics-Lab`` with your Github username
 twitter_username: twitterhandle
 disqus: tonyfast
 
